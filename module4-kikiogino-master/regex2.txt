@@ -1,0 +1,1 @@
+\w*[AEIOUaeiou][AEIOUaeiou][AEIOUaeiou]\w*
